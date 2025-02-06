@@ -1,2 +1,2 @@
-# Ransomware-Detection-Using-ML
-https://rakibuljoy.github.io/Ransomware-Detection-Using-ML/
+# Ransomware-Detection-Using-Ml
+
